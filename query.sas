@@ -1,5 +1,5 @@
 /*Setup environment*/
-cas;
+cas MYSESSION;
 caslib _all_ assign;
 
 /*Query in-memory table*/
